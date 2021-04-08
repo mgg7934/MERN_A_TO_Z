@@ -1,4 +1,4 @@
-name: HEROKU CD
+name: MERN CD HEROKU
 
 on:
   push:
